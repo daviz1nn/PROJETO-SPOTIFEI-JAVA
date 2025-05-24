@@ -1,4 +1,5 @@
-#Projeto-SpotiFEI
+Projeto-SpotiFEI
+
 Esse é o SpotifeiApp, um projeto que desenvolvi para a disciplina de Programação Orientada a Objetos. A ideia foi criar uma aplicação parecida com o Spotify, mas usando Java com Swing, JDBC e PostgreSQL. Tudo foi feito seguindo o padrão MVC, com foco em praticar integração com banco de dados e interface gráfica.
 
 O que dá pra fazer no app:
